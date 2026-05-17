@@ -147,5 +147,5 @@ target:      AI Product Management · summer 2026
 
 <p align="center">
   <i>open to AI PM internship conversations for summer 2026</i><br>
-  <a href="mailto:mchakra8@asu.edu">mchakra8@asu.edu</a>
+  <a href="mailto:mchakr11@asu.edu">mchakra8@asu.edu</a>
 </p>
