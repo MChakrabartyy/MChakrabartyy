@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=800&color=C2427A&center=true&vCenter=true&width=600&height=45&lines=hi+i'm+manisha+%F0%9F%91%BE;ai+engineer+%E2%86%92+product+%F0%9F%A9%B7;cs+%40+asu+%C2%B7+precisely+%C2%B7+grace+hopper;building+things+that+matter)](https://github.com/MChakrabartyy)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=800&color=C2427A&center=true&vCenter=true&width=600&height=45&lines=hi+i'm+manisha+%F0%9F%91%BE;ai+engineer+%E2%86%92+product+%F0%9F%A9%B7;cs+%40+asu+%C2%B7+grace+hopper;building+things+that+matter)](https://github.com/MChakrabartyy)
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80"/>
 
@@ -26,14 +26,13 @@ and technical enough to know when they're wrong._
 ### `// about`
 
 ```yaml
-school:      CS @ ASU Ira A. Fulton · 3.81 GPA · Dean's List 3×
-interning:   AI Engineering @ Precisely · Summer 2026 · remote
-work:        Instructional Designer & QA Eng @ EdPlus ASU
+school:      CS @ Arizona State University - Ira A. Fulton School of Engineering · 4.16 GPA · Dean's List 4x
+work:        SWE & QA @ EdPlus ASU
 leading:     VP of Operations @ ASU AI Society (5,000+ members · 39-person team)
 ambassador:  Adobe · Perplexity · ChatGPT Lab
 scholar:     Grace Hopper Conference · Anita Borg Institute
 ai tools:    Claude · Claude Code · Cursor · Codex · Copilot · Lovable · v0
-target:      AI Product Management · summer 2026
+target:      AI Engineer & Product Management · summer 2026
 ```
 
 ---
