@@ -127,13 +127,18 @@ target:      AI Engineer & Product Management · summer 2026
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MChakrabartyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2427A&icon_color=C2427A&bg_color=0d1117&text_color=ffffff)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChakrabartyy&layout=compact&theme=tokyonight&hide_border=true&title_color=C2427A&bg_color=0d1117&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MChakrabartyy&theme=tokyonight&hide_border=true&ring=C2427A&fire=C2427A&currStreakLabel=C2427A)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MChakrabartyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2427A&icon_color=C2427A&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChakrabartyy&layout=compact&theme=tokyonight&hide_border=true&title_color=C2427A)
 
 </div>
+
+```
+total contributions (Mar 2024 – present):   567+
+repositories:                                15
+hackathon wins:                              2  (Best Hardware Hack · 2nd Place DevHacks)
+awards:                                      3  (SUN Awards · EdPlus)
+```
 
 ---
 
