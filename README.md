@@ -127,22 +127,22 @@ target:      AI Engineer & Product Management · summer 2026
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MChakrabartyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2427A&icon_color=C2427A&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChakrabartyy&layout=compact&theme=tokyonight&hide_border=true&title_color=C2427A)
+![contributions](https://img.shields.io/badge/contributions_(Mar_2024–present)-567%2B-C2427A?style=for-the-badge)
+![repos](https://img.shields.io/badge/repositories-15-993556?style=for-the-badge)
+![wins](https://img.shields.io/badge/hackathon_wins-2-72243E?style=for-the-badge)
+![awards](https://img.shields.io/badge/SUN_awards-3-534AB7?style=for-the-badge)
+
+```
+languages:    TypeScript  ████████████░░░  Python  ███████░░░░░░  JavaScript  █████░░░░░░░░
+focus:        AI engineering  ████████░░░░  product thinking  ██████░░░░░░
+```
 
 </div>
-
-```
-total contributions (Mar 2024 – present):   567+
-repositories:                                15
-hackathon wins:                              2  (Best Hardware Hack · 2nd Place DevHacks)
-awards:                                      3  (SUN Awards · EdPlus)
-```
 
 ---
 
 <div align="center">
   <i>open to AI PM internship conversations for summer 2026</i><br><br>
-  <a href="mailto:mchakra8@asu.edu">mchakra8@asu.edu</a>
+  <a href="mailto:mchakr11@asu.edu">mchakr11@asu.edu</a>
 </div>
+
