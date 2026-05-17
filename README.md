@@ -1,26 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&pause=800&color=C2427A&center=true&vCenter=true&width=500&lines=hi+i'm+manisha+%F0%9F%91%BE;ai+engineer+%E2%86%92+product+%F0%9F%A9%B7;cs+%40+asu+%C2%B7+precisely+%C2%B7+grace+hopper;building+things+that+matter)](https://github.com/MChakrabartyy)
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="60px"/>
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&pause=800&color=C2427A&center=true&vCenter=true&width=600&height=45&lines=hi+i'm+manisha+%F0%9F%91%BE;ai+engineer+%E2%86%92+product+%F0%9F%A9%B7;cs+%40+asu+%C2%B7+precisely+%C2%B7+grace+hopper;building+things+that+matter)](https://github.com/MChakrabartyy)
 
-<p align="center">
-  <a href="https://linkedin.com/in/manisha-chakraborty">
-    <img src="https://img.shields.io/badge/linkedin-manisha_chakraborty-C2427A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://v0-manisha-product-portfolio-redesi.vercel.app">
-    <img src="https://img.shields.io/badge/pm_portfolio-vercel-534AB7?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://mchakrabartyy.github.io">
-    <img src="https://img.shields.io/badge/swe_portfolio-github-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80"/>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-manisha_chakraborty-C2427A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manisha-chakraborty)
+[![PM Portfolio](https://img.shields.io/badge/pm_portfolio-vercel-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-manisha-product-portfolio-redesi.vercel.app)
+[![SWE Portfolio](https://img.shields.io/badge/swe_portfolio-github-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://mchakrabartyy.github.io)
+
+</div>
 
 ---
 
@@ -52,9 +40,9 @@ target:      AI Product Management · summer 2026
 
 ### `// skills that matter right now`
 
-**AI / LLMs — what i actually build with**
+**🤖 AI / LLMs — what i actually build with**
 
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-C2427A?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-C2427A?style=flat-square&logoColor=white)
 ![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-C2427A?style=flat-square)
 ![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-993556?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-993556?style=flat-square)
@@ -67,17 +55,17 @@ target:      AI Product Management · summer 2026
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-72243E?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-72243E?style=flat-square)
 
-**AI dev tools — how i stay sharp**
+**🛠️ AI dev tools — how i stay sharp**
 
-![Claude Code](https://img.shields.io/badge/Claude_Code-444441?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-444441?style=flat-square)
-![Codex](https://img.shields.io/badge/Codex-444441?style=flat-square)
-![Copilot](https://img.shields.io/badge/Copilot-444441?style=flat-square)
-![Lovable](https://img.shields.io/badge/Lovable-444441?style=flat-square)
-![v0](https://img.shields.io/badge/v0-444441?style=flat-square)
-![Replit](https://img.shields.io/badge/Replit-444441?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude_Code-2C2C2A?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-2C2C2A?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-2C2C2A?style=flat-square)
+![Copilot](https://img.shields.io/badge/Copilot-2C2C2A?style=flat-square)
+![Lovable](https://img.shields.io/badge/Lovable-2C2C2A?style=flat-square)
+![v0](https://img.shields.io/badge/v0-2C2C2A?style=flat-square)
+![Replit](https://img.shields.io/badge/Replit-2C2C2A?style=flat-square)
 
-**product — the PM side**
+**📋 product — the PM side**
 
 ![Product Sense](https://img.shields.io/badge/Product_Sense-534AB7?style=flat-square)
 ![User Research](https://img.shields.io/badge/User_Research-534AB7?style=flat-square)
@@ -88,23 +76,24 @@ target:      AI Product Management · summer 2026
 ![Stakeholder Comms](https://img.shields.io/badge/Stakeholder_Comms-3C3489?style=flat-square)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-**languages & stack**
+**💻 languages & stack**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F6E56?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-085041?style=flat-square)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**infra & systems**
+**☁️ infra & systems**
 
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Durable Objects](https://img.shields.io/badge/Durable_Objects-F38020?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS_(Lambda·S3·DynamoDB)-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-633806?style=flat-square)
 ![WebSocket](https://img.shields.io/badge/WebSocket-633806?style=flat-square)
@@ -126,26 +115,30 @@ target:      AI Product Management · summer 2026
 
 | | |
 |---|---|
-| **ASU AI Society** — VP of Operations | 5,000+ members · 39-person cross-functional team · 12× reach growth |
-| **Adobe Campus Ambassador** | hands-on AI demos · product feedback direct to eng teams |
-| **Perplexity Ambassador** | AI adoption across campus · 200+ students reached |
-| **ChatGPT Lab** | campus AI programs & workshops |
-| **Grace Hopper Scholar** | Anita Borg Institute · WICS |
-| **Girls Who Code · SWE · CodePath** | staying in the community, staying sharp |
+| 🤝 **ASU AI Society** — VP of Operations | 5,000+ members · 39-person team · 12× reach growth |
+| 🎨 **Adobe Campus Ambassador** | hands-on AI demos · product feedback direct to eng teams |
+| 🔍 **Perplexity Ambassador** | AI adoption across campus · 200+ students reached |
+| 🤖 **ChatGPT Lab** | campus AI programs & workshops |
+| 🏆 **Grace Hopper Scholar** | Anita Borg Institute · WICS |
+| 👩‍💻 **Girls Who Code · SWE · CodePath** | staying in the community, staying sharp |
 
 ---
 
 ### `// stats`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MChakrabartyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2427A&icon_color=C2427A" height="145"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChakrabartyy&layout=compact&theme=tokyonight&hide_border=true&title_color=C2427A" height="145"/>
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MChakrabartyy&show_icons=true&theme=tokyonight&hide_border=true&title_color=C2427A&icon_color=C2427A&bg_color=0d1117&text_color=ffffff)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MChakrabartyy&layout=compact&theme=tokyonight&hide_border=true&title_color=C2427A&bg_color=0d1117&text_color=ffffff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MChakrabartyy&theme=tokyonight&hide_border=true&ring=C2427A&fire=C2427A&currStreakLabel=C2427A)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>open to AI PM internship conversations for summer 2026</i><br>
-  <a href="mailto:mchakr11@asu.edu">mchakra8@asu.edu</a>
-</p>
+<div align="center">
+  <i>open to AI PM internship conversations for summer 2026</i><br><br>
+  <a href="mailto:mchakra8@asu.edu">mchakra8@asu.edu</a>
+</div>
